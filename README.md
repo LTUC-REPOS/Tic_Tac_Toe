@@ -19,7 +19,14 @@
 
 <br>
 
-### Setup
+## Setup:
+
+<br>
+
+
+> Python 3.9.5 <br>
+
+> pytest 7.1.3 <br>
 
 <br>
 
